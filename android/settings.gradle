@@ -1,0 +1,3 @@
+rootProject.name = 'TpNavigator4_4_2'
+
+include ':app'
